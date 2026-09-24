@@ -2,7 +2,7 @@
 
 > **Learn. Build. Share.**
 
-MOK Student is a student-led community where students explore technology by building real projects, experimenting with new ideas, and learning together.
+MOK Student is a student-led community where students explore technology by building real projects., experimenting with new ideas, and learning together.
 
 We believe you don't need to be an expert to start building. You just need curiosity, a willingness to learn, and the courage to make mistakes.
 
